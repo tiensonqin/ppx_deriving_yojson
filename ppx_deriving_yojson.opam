@@ -2,6 +2,7 @@ opam-version: "1.2"
 version: "3.1"
 maintainer: "whitequark <whitequark@whitequark.org>"
 authors: [ "whitequark <whitequark@whitequark.org>" ]
+description: "ppx deriving yojson"
 license: "MIT"
 homepage: "https://github.com/ocaml-ppx/ppx_deriving_yojson"
 doc: "http://ocaml-ppx.github.io/ppx_deriving_yojson"
